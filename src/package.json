@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-project-starter",
+  "version": "0.0.1",
+  "description": "NodeJS Project Starter 2.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Vietvh",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "sequelize": "^4.6.0"
+  }
+}

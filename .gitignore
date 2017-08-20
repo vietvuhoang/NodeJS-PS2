@@ -56,4 +56,19 @@ typings/
 
 # dotenv environment variables file
 .env
+*node_modules
+*bower_components
+*app-config.json
+*datasources.json
+*.idea
+*.DS_Store
+*.editorconfig
+*.vscode
+*logs
+*npm-debug.log
+*~lock*
+*logs*
+*swp
+**/dist
+*/package-lock.json
 
